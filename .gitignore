@@ -1,0 +1,5 @@
+.vscode
+sdkconfig
+build
+nimble-esp32
+
